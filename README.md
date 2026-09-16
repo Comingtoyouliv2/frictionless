@@ -1,1 +1,1 @@
-# open-subscription
+# frictionless
