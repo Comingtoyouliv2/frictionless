@@ -1,0 +1,10 @@
+{
+  "name": "@frictionless/direct-swap-demo",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Two-provider demonstration of a Frictionless direct credit swap.",
+  "dependencies": {
+    "@frictionless/protocol": "file:../../packages/frictionless-protocol",
+    "@frictionless/provider-sdk": "file:../../packages/provider-sdk"
+  }
+}

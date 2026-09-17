@@ -1,0 +1,17 @@
+{
+  "name": "frictionless",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Open-source direct-swap protocol for provider-authorized usage credits.",
+  "workspaces": [
+    "packages/*",
+    "examples/*"
+  ],
+  "scripts": {
+    "check": "npm run check --workspaces --if-present",
+    "test": "npm run test --workspaces --if-present"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
