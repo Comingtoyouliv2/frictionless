@@ -11,6 +11,10 @@
     "check": "npm run check --workspaces --if-present",
     "test": "npm run test --workspaces --if-present"
   },
+  "devDependencies": {
+    "@types/node": "18.19.130",
+    "typescript": "5.9.3"
+  },
   "engines": {
     "node": ">=18"
   }
